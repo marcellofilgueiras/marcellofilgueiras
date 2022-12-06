@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marcellofilgueiras
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, sou Marcello Filgueiras, sou Advogado e trabalho com Jurimetria (estatística aplicada ao Direito) e Políticas Públicas.
+- Programo em R há 3 anos, mas agora, além disso, estou diversificando meu portólio para Python.
+
+- 💞️ No meu perfil pessoal há poucos diretórios públicos. Maior parte dos meus códigos abertos estão no github do Observatório de Dados que sou cofundador, o @JfEmDados (https://github.com/jfemdados). 
+- 📫 Se quiser conversar comigo pode falar diretamente no LinkedIn https://www.linkedin.com/in/marcello-filgueiras/
 
 <!---
 marcellofilgueiras/marcellofilgueiras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
